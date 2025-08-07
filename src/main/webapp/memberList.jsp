@@ -48,5 +48,6 @@
 			</tr>
 		</c:forEach>
 	</table>
+	<a href="javascript.history.go(-1);">뒤로가기</a>
 </body>
 </html>
