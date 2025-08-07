@@ -49,5 +49,6 @@
 		</c:forEach>
 	</table>
 	<a href="javascript:history.go(-1);">뒤로가기</a>
+	<input type="button" value="뒤로가기" onclick="javascript:history.go(-1)">
 </body>
 </html>
